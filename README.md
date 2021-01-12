@@ -5,7 +5,9 @@
 
 ### About me
 I'm a Web developer, with total focus on Javascript (React, Node). Currently working as a freelancer with a lot of project developed.
+
 Eu sou um Desenvolvedor Web focado em Javascript, apesar de ser apaixonado pela parte front-end, eu me aventuro pelo back-end com o Node e me divirto bastante.
+
 Se tiver algum projeto em mente fique à vontade para conversar comigo sobre, abaixo está o meu site com meu portifólio. 
 
 Abraços.
