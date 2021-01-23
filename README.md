@@ -12,4 +12,4 @@ Se tiver algum projeto em mente fique à vontade para conversar comigo sobre, ab
 
 Abraços.
 
-- [Website](https://ygorpinto.github.io/portifolio.github.io/) 💻 - Working on it.
+- [Website](https://ygorpinto.github.io/portfolio.github.io/) 💻 - Working on it.
