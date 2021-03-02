@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ygorpinto&label=Profile%20views&color=0e75b6&style=flat" alt="ygorpinto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ygorpinto" alt="ygorpinto" /></a> </p>
-
 - 👨‍💻 I’m currently learning **Next.JS and Styled Components and i have knowledge in ReactJS, and NodeJS**
 
 <h3 align="left">Connect with me:</h3>
