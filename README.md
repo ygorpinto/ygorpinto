@@ -16,7 +16,7 @@
 <p><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ygorpinto&show_icons=true&locale=en&layout=compact" alt="ygorpinto" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ygorpinto&show_icons=true&locale=en" alt="ygorpinto" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ygorpinto&show_icons=true&locale=en&theme=radical" alt="ygorpinto" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ygorpinto&" alt="ygorpinto" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ygorpinto&theme=dark" alt="ygorpinto" /></p>
 
