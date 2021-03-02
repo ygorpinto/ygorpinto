@@ -17,7 +17,7 @@
 </p>
 
 ## ⭐ Github Stats :
-  [![card](https://github-readme-stats.vercel.app/api?username=ygorpinto&theme=dracula)](https://github.com/ygorpinto/)
+  [![card](https://github-readme-stats.vercel.app/api?username=ygorpinto&theme=synthwave)](https://github.com/ygorpinto/)
   <br/>
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorpinto&hide=html&layout=compact&theme=synthwave)](https://github.com/ygorpinto/)
 
