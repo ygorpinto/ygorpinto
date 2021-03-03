@@ -3,7 +3,7 @@
 
 ## Oi, meu nome é <strong>Ygor Ferreira</strong>
 
-### 💻 Sou um estusiasta de novas tecnologias.
+### 💻 Sou um entusiasta de novas tecnologias.
 - 👬 Aprendendo mais sobre **NextJS** e **Styled Components**.
 
 ## 💡 Skills : 
