@@ -4,7 +4,11 @@
 ## Oi, meu nome é <strong>Ygor Ferreira</strong>
 
 ### 💻 Sou um entusiasta de novas tecnologias.
-- 👬 Aprendendo mais sobre **NextJS** e **Styled Components**.
+- Ruby on Rails
+- Java
+- Javascript
+- Typescript
+- E aprendendo ultimamente cada vez mais sobre React
 
 ## 💡 Skills : 
 <p align="left">
