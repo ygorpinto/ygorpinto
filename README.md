@@ -3,12 +3,12 @@
 
 ## Oi, meu nome é <strong>Ygor Ferreira</strong>
 
-### 💻 Sou um entusiasta de novas tecnologias.
+### 💻 Sou um entusiasta de tecnologias.
 - Ruby on Rails
 - Java
 - Javascript
 - Typescript
-- E aprendendo ultimamente cada vez mais sobre React
+- E aprendendo ultimamente cada vez mais sobre React e outros frameworks reativos.
 
 ## 💡 Skills : 
 <p align="left">
