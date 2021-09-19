@@ -1,15 +1,4 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-## Oi, meu nome é <strong>Ygor Ferreira</strong>
-
-### 💻 Hard Skills.
-- Ruby on Rails
-- Java
-- Javascript
-- Typescript
-- React
-
 ## 💡 Skills : 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -22,9 +11,9 @@
 </p>
 
 ## ⭐ Github Stats :
-  [![card](https://github-readme-stats.vercel.app/api?username=ygorpinto&theme=synthwave)](https://github.com/ygorpinto/)
+  [![card](https://github-readme-stats.vercel.app/api?username=ygorpinto&theme=dracula)](https://github.com/ygorpinto/)
   <br/>
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorpinto&hide=html&layout=compact&theme=synthwave)](https://github.com/ygorpinto/)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorpinto&hide=html&layout=compact&theme=dracula)](https://github.com/ygorpinto/)
 
 ## 📱 Contato:
 <p align="left">
