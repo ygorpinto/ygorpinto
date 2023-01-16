@@ -1,8 +1,3 @@
-### Github Stats :
-  [![card](https://github-readme-stats.vercel.app/api?username=ygorpinto&theme=dracula)](https://github.com/ygorpinto/)
-  <br/>
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorpinto&hide=html&layout=compact&theme=dracula)](https://github.com/ygorpinto/)
-
 ### Contato:
 <p align="left">
   Pode entrar em contato comigo através de uma das redes abaixo :
